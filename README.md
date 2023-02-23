@@ -1,2 +1,2 @@
 # style-guidelines
-What goes into a Technical Writing Style Guide
+What goes into a technical writing style guide?
