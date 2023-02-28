@@ -50,3 +50,11 @@ Guidelines on when/where/how to use:
 - Font style 
 - Code blocks and terminal command blocks
 - Graphics of user interface components (e.g. dropdowns, icons)
+
+
+**5. References**
+
+There should be guidelines to ensure consistent referencing of other documents
+
+Guidelines on the appropriate reference style that should be used
+Guidelines on how to link to external content
