@@ -9,3 +9,14 @@ The answers of the following questions will have an impact on the style guidelin
   - Should the "level" of a document be pitched at beginners or experts?
 - The value of a document should be considered - what does it help the user to achieve? 
   - What is useful for the user to know?
+  
+  
+**2. Structure**
+
+There should be guidelines on the overall structure of documents.
+
+- Guidelines on structuring a book (e.g. front cover, title page, table of contents, list of figures)
+- Guidelines on structuring a task topic (e.g. how to structure a document that has step-by-step instructions)
+- Guidelines on structuring a concept topic (e.g. how to structure a document for a new product, feature or tool)
+- Guidelines on structuring a reference topic (e.g. how to structure an API reference, configuration parameter reference)
+- Guidelines on documentation website structure (e.g. including adding articles to an index, article keywords to a glossary) 
