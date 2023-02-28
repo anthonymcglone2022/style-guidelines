@@ -58,3 +58,32 @@ There should be guidelines to ensure consistent referencing of other documents.
 
 - Guidelines on the appropriate reference style that should be used.
 - Guidelines on how to link to external content.
+
+**6. Indexes**
+
+There should be guidelines on the organisation and number of levels in an index.
+
+- Guidelines on how to best index task, concept and reference topics on a website.
+- Guidelines on how to best index other items (such as a book index).
+- Guidelines on the size of index entries (e.g. number of index entries per topic).
+- Guidelines on the number of levels in an index.
+- Guidelines on the locators in an index.
+
+
+**7. Glossary**
+
+There should be guidelines on how to create clear and concise glossary entries.
+
+- Guidelines on the structure of an entry (e.g. its definition, plus optional items like a "See also" reference).
+- Guidelines on the correct language and grammar use in a glossary entry (e.g. use passive voice).
+- Guidelines on the types of glossary terms (e.g. noun, verb).
+- Guidelines on what not to include in a glossary (e.g.  product names like MySQL).
+
+
+**8. Release Notes**
+
+There should be guidelines (and a template?) for creating useful release notes.
+
+- Guidelines on what items to add (e.g. header specifying the release version, new features, fixed bugs).
+- Guidelines on format of release notes (e.g. blog-like (with SEO in mind) or a succinct list).
+- Guidelines on language and grammar (e.g. how formal should the tone of the release notes be?).
