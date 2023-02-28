@@ -13,7 +13,7 @@ The answers of the following questions will have an impact on the style guidelin
   
 **2. Structure**
 
-There should be guidelines on the overall structure of documents.
+There should be guidelines on the structure of documents.
 
 - Guidelines on structuring a book (e.g. front cover, title page, table of contents, list of figures)
 - Guidelines on structuring a task topic (e.g. how to structure a document that has step-by-step instructions)
