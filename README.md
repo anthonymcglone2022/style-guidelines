@@ -28,7 +28,7 @@ There should be guidelines for appropriate language and correct grammar. These g
 
 - Guidelines to avoid misleading or confusing language (e.g. don't use slang, words like "automagic", phrases like "happy path").
 - Guidelines on using neutral language (e.g. avoid using "he" or "she").
-- Guidelines on tone (e.g. use authoritative tone instead of unconfident tone)
+- Guidelines on tone (e.g. use an authoritative tone instead of an unconfident one)
 - Guidelines on active voice versus passive voice
 - Guidelines on sentence structure and length 
 - Guidelines on abbreviations
