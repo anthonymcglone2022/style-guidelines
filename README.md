@@ -16,7 +16,7 @@ The answers of the following questions will have an impact on the style guidelin
 There should be guidelines on the structure of documents.
 
 - Guidelines on structuring a book (e.g. front cover, title page, table of contents, list of figures)
-- Guidelines on structuring a task topic (e.g. add prerequisites followed by step-by-step instructions)
-- Guidelines on structuring a concept topic (e.g. what should be presented for a new product, feature or tool)
+- Guidelines on structuring a task topic (e.g. adding prerequisites and step-by-step instructions)
+- Guidelines on structuring a concept topic (e.g. what information should be presented for a new product, feature or tool)
 - Guidelines on structuring a reference topic (e.g. how many examples or what type of examples should go in an API reference)
 - Guidelines on documentation website structure (e.g. listing articles in a website's index, adding an article's keywords to a glossary) 
