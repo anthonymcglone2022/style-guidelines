@@ -1,4 +1,4 @@
-# What should go into a style guide?
+# What are the considerations for a style guide?
 
 **1. Audience**
 
