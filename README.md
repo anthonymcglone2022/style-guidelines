@@ -26,12 +26,12 @@ There should be guidelines on the structure of documents.
 
 There should be guidelines for appropriate language and correct grammar. These guidelines should be extended in specific cases (e.g. for an index or glossary section)
 
-Guidelines to avoid misleading or confusing language (e.g. don't use slang, words like "automagic", phrases like "happy path").
-Guidelines on using neutral language (e.g. avoid using "he" or "she").
-Guidelines on tone (e.g. use authoritative tone instead of unconfident)
-Guidelines on active voice versus passive voice
-Guidelines on sentence structure and length 
-Guidelines on abbreviations
-Guidelines on punctuation
-Guidelines on pronouns and verbs
-Guidelines on tense (e.g. use the present tense where possible)
+- Guidelines to avoid misleading or confusing language (e.g. don't use slang, words like "automagic", phrases like "happy path").
+- Guidelines on using neutral language (e.g. avoid using "he" or "she").
+- Guidelines on tone (e.g. use authoritative tone instead of unconfident)
+- Guidelines on active voice versus passive voice
+- Guidelines on sentence structure and length 
+- Guidelines on abbreviations
+- Guidelines on punctuation
+- Guidelines on pronouns and verbs
+- Guidelines on tense (e.g. use the present tense where possible)
