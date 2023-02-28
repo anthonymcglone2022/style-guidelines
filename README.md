@@ -19,4 +19,4 @@ There should be guidelines on the overall structure of documents.
 - Guidelines on structuring a task topic (e.g. how to structure a document that has step-by-step instructions)
 - Guidelines on structuring a concept topic (e.g. how to structure a document for a new product, feature or tool)
 - Guidelines on structuring a reference topic (e.g. how to structure an API reference, configuration parameter reference)
-- Guidelines on documentation website structure (e.g. including adding articles to an index, article keywords to a glossary) 
+- Guidelines on documentation website structure (e.g. listing articles in a website's index, adding an article's keywords to a glossary) 
