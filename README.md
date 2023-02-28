@@ -1,4 +1,4 @@
-# style-guidelines
+# What should go into a style guide?
 
 **1. Audience**
 
