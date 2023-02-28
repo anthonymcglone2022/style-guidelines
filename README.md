@@ -2,7 +2,7 @@
 
 **1. Audience**
 
-The answers of the following questions will have an impact on the style guidelines.
+The answers to the following questions will impact the style guidelines.
 
 - Who is the documentation being written for? 
   - Is the audience global? Will the documentation have to be translated? 
