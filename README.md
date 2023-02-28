@@ -35,3 +35,18 @@ There should be guidelines for appropriate language and correct grammar. These g
 - Guidelines on punctuation
 - Guidelines on pronouns and verbs
 - Guidelines on tense (e.g. use the present tense where possible)
+
+
+**4. Formatting**
+
+Guidelines to ensure consistent formatting throughout the document
+
+Guidelines on when/where/how to use:
+- Bullet points
+- Ordered lists 
+- Headings
+- Tables
+- Images
+- Font style 
+- Code blocks and terminal command blocks
+- Graphics of user interface components (e.g. dropdowns, icons)
