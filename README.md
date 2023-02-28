@@ -2,7 +2,7 @@
 
 **1. Audience**
 
-There should be guidelines for considering the target audience. 
+There should be guidelines around the answers to the following questions. 
 
 - Who is the documentation being written for? 
   - Is the audience global? Will the documentation need to be translated? 
