@@ -39,7 +39,7 @@ There should be guidelines for appropriate language and correct grammar. These g
 
 **4. Formatting**
 
-Guidelines to ensure consistent formatting throughout the document.
+Guidelines to ensure consistent formatting throughout the documentation.
 
 Guidelines on when/where/how to use:
 - Bullet points
