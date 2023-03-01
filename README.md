@@ -6,8 +6,9 @@ The answers to the following questions will impact the style guidelines.
 
 - Who is the documentation being written for? 
   - Is the audience global? Will the documentation have to be translated? 
-  - Should the "level" of a document be pitched at beginners or experts?
-- The value of a document should be considered - what does it help the user to achieve? 
+  - Should a document be written for beginners or experts?
+- What is the value of a document? 
+  - What does it help the user to achieve? 
   - What is useful for the user to know?
   
   
