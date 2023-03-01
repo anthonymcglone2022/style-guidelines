@@ -62,7 +62,7 @@ There should be guidelines to ensure consistent referencing of other documents.
 
 ## 6. Indexes
 
-There should be guidelines on the organisation and the number of levels in an index.
+There should be guidelines on the organisation of indexes.
 
 - Guidelines on how to best index *task*, *concept* and *reference* topics on a website.
 - Guidelines on how to best index other items (e.g. book index).
