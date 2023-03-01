@@ -1,6 +1,6 @@
 # Style guide considerations
 
-**1. Audience**
+## 1. Audience
 
 The answers to the following questions will impact the style guidelines.
 
@@ -11,7 +11,7 @@ The answers to the following questions will impact the style guidelines.
   - What is useful for the user to know?
   
   
-**2. Structure**
+## 2. Structure
 
 There should be guidelines on the structure of documents.
 
@@ -22,7 +22,7 @@ There should be guidelines on the structure of documents.
 - Guidelines on documentation website structure (e.g. listing articles in a website's index, adding an article's keywords to a glossary).
 
 
-**3. Language and grammar**
+## 3. Language and grammar
 
 There should be guidelines for appropriate language and correct grammar. These guidelines should be extended in specific cases (e.g. for an index or glossary section).
 
@@ -37,7 +37,7 @@ There should be guidelines for appropriate language and correct grammar. These g
 - Guidelines on tense (e.g. use the present tense where possible).
 
 
-**4. Formatting**
+## 4. Formatting
 
 Guidelines to ensure consistent formatting throughout the documentation.
 
@@ -52,14 +52,14 @@ Guidelines on when/where/how to use:
 - Graphics of user interface components (e.g. dropdowns, icons)
 
 
-**5. References**
+## 5. References
 
 There should be guidelines to ensure consistent referencing of other documents.
 
 - Guidelines on the appropriate reference style that should be used.
 - Guidelines on how to link to external content.
 
-**6. Indexes**
+## 6. Indexes
 
 There should be guidelines on the organisation and number of levels in an index.
 
@@ -70,7 +70,7 @@ There should be guidelines on the organisation and number of levels in an index.
 - Guidelines on the locators in an index.
 
 
-**7. Glossary**
+## 7. Glossary
 
 There should be guidelines on how to create clear and concise glossary entries.
 
@@ -80,7 +80,7 @@ There should be guidelines on how to create clear and concise glossary entries.
 - Guidelines on what not to include in a glossary (e.g.  product names like MySQL).
 
 
-**8. Release Notes**
+## 8. Release Notes
 
 There should be guidelines (and a template?) for creating useful release notes.
 
